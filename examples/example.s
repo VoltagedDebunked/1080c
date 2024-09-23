@@ -1,0 +1,8 @@
+ADD 1, 2
+SUB 3, 4
+MOV 1, 0
+CMP 5, 6
+AND 7, 8
+JMP 9
+SWT 10
+HLT
